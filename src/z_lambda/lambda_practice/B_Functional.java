@@ -1,8 +1,8 @@
-package z_lambda.practice;
+package z_lambda.lambda_practice;
 
-import z_lambda.practice.functional.A_FunctionalInterface;
-import z_lambda.practice.functional.B_FunctionalInterface;
-import z_lambda.practice.functional.C_FunctionalInterface;
+import z_lambda.lambda_practice.functional.A_FunctionalInterface;
+import z_lambda.lambda_practice.functional.B_FunctionalInterface;
+import z_lambda.lambda_practice.functional.C_FunctionalInterface;
 
 public class B_Functional {
     private int number = 100;

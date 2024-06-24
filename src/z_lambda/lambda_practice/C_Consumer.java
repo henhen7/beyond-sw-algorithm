@@ -1,4 +1,4 @@
-package z_lambda.practice;
+package z_lambda.lambda_practice;
 
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;

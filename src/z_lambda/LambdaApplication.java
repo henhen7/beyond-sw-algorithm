@@ -1,10 +1,7 @@
 package z_lambda;
 
-import z_lambda.practice.E_Function;
-import z_lambda.practice.F_Operator;
-
 public class LambdaApplication {
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
         /**
          * 람다식(Lambda Expressions)
          *  - 자바에서 함수적 프로그래밍을 위해서 자바 8부터 람다식을 지원한다.
@@ -47,6 +44,6 @@ public class LambdaApplication {
 //        new C_Consumer().method1();
 //        new D_Supplier().method1();
 //        new E_Function().method1();
-        new F_Operator().method1();
-    }
+//        new F_Operator().method1();
+//    }
 }

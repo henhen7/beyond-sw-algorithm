@@ -1,4 +1,4 @@
-package z_lambda.practice.functional;
+package z_lambda.lambda_practice.functional;
 
 @FunctionalInterface
 public interface C_FunctionalInterface {

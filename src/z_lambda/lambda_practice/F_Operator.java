@@ -1,4 +1,4 @@
-package z_lambda.practice;
+package z_lambda.lambda_practice;
 
 import java.util.function.BinaryOperator;
 import java.util.function.IntBinaryOperator;

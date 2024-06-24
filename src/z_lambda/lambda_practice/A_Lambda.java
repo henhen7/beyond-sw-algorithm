@@ -1,4 +1,4 @@
-package z_lambda.practice;
+package z_lambda.lambda_practice;
 
 public class A_Lambda {
     public void method1() {

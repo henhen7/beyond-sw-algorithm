@@ -1,6 +1,5 @@
-package z_lambda.practice;
+package z_lambda.lambda_practice;
 
-import java.util.Arrays;
 import java.util.function.BooleanSupplier;
 import java.util.function.Supplier;
 
